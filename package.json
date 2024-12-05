@@ -1,0 +1,28 @@
+{
+  "name": "1-web-dev-fundamentals",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MackInSpace/1-Web-Dev-Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MackInSpace/1-Web-Dev-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/MackInSpace/1-Web-Dev-Fundamentals#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
